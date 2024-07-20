@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+D:\universal\FINAL_PROJECT\FINAL_PROJECT\pharmacystore\pharmacystore\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2738108761.index
+\pharmacystore\pharmacystore\src

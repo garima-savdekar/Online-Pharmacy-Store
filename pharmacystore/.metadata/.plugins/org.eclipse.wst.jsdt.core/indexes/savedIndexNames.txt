@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\universal\FINAL_PROJECT\FINAL_PROJECT\pharmacystore\pharmacystore\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2515291887.index
+2143773989.index
+2353125744.index
+1413127775.index
+2110812418.index
+895629973.index
